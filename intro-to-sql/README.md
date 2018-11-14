@@ -1,6 +1,6 @@
-# intro to SQL  
+# Intro to SQL  
 
-## short URL to this repo http://bit.ly/intro-sql | https://github.com/keeno12/into-to-sql
+## Short URL to this repo http://bit.ly/intro-sql | https://github.com/keeno12/into-to-sql
 
 ## Setting up your computer:
 
