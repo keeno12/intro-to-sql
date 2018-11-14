@@ -502,12 +502,11 @@ Upcoming Learn to code [events](https://www.meetup.com/SF-Data-Science/):
 
 #### Immersive Bootcamp
 - [Data Science](https://www.galvanize.com/san-francisco/data-science) - 1/22/2019
-- [Software Engineer](https://www.galvanize.com/san-francisco/web-development) - 10/5/2018
+- [Software Engineer](https://www.galvanize.com/san-francisco/web-development) - January 2019 (Hack Reactor)
 
 #### Part-Time Courses
 
-- [Python Accelerated Evening Course](https://www.galvanize.com/seattle/web-development-foundations) - 10/29/2018
-- [2 Day Statistics Short-Course](https://www.galvanize.com/seattle/data-analytics) - 12/04/2018
+- [2 Day Statistics Short-Course](https://www.galvanize.com/seattle/data-analytics) - 11/27 & 11/29
 
 
 #### Co-working Space
