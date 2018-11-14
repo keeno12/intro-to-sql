@@ -424,7 +424,6 @@ JOIN OrderDetails ON Orders.OrderID=OrderDetails.OrderID
 JOIN Products ON OrderDetails.ProductID=Products.ProductID;
 ```
 
-TODO: Make simpler for first join intro and add graph
 
 By default when you just use 'join' we are creating a inner join. Read more about different joins [here](https://www.w3schools.com/sql/sql_join.asp)
 .
