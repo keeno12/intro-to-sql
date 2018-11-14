@@ -19,7 +19,7 @@ We create a technology ecosystem for learners, entrepreneurs, startups, and esta
 We're an awesome community!!!
 
 
-Shout out to Jessica tonight! If you have any questions about Galvanize talk to her! You can also email her at [learn@galvanize.com](mailto:learn@galvanize.com)
+If you have any questions about Galvanize immersive offerings in Data Science or Web Engineering, you can also email us at [learn@galvanize.com](mailto:learn@galvanize.com)
 
 
 ## About me:
