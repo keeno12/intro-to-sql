@@ -416,12 +416,9 @@ We're not going to go super deep into joins in this workshop and they can be a b
 This of it as essentially joining tables together. We're then returning combined table for use to use.
 
 ```
-SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate,
-OrderDetails.ProductID, Products.productName, Products.Price
+SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
 FROM Orders
-JOIN Customers ON Orders.CustomerID=Customers.CustomerID
-JOIN OrderDetails ON Orders.OrderID=OrderDetails.OrderID
-JOIN Products ON OrderDetails.ProductID=Products.ProductID;
+INNER JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
 ```
 
 
