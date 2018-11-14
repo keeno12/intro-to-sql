@@ -525,7 +525,7 @@ This was only my 2nd time running this workshop, help improve it by giving me fe
 - LinkedIn: [Keenan Olsen](https://www.linkedin.com/in/keenanolsen/)
 - Email: [keenan.olsen@galvanize.com](mailto:keenan.olsen@galvanize.com)
 
-THANK YOU FOR HAVING ME SAN FRANCISCO!
+THANK YOU!
 
 Questions about education at Galvanize SF email [learn@galvanize.com](mailto:learn@galvanize.com)
 
