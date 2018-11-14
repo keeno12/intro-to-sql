@@ -347,7 +347,7 @@ SELECT * FROM Customers;
 
 ```
 INSERT INTO Customers (CustomerName, City, Country)
-VALUES ('Sage', 'Seattle', 'USA');
+VALUES ('Keenan', 'San Francisco', 'USA');
 ```
 
 ```
@@ -367,7 +367,7 @@ SELECT * FROM Customers;
 
 ```
 UPDATE Customers
-SET ContactName='Sage', City='Seattle'
+SET ContactName='Keenan', City='San Francisco'
 WHERE CustomerID=1;
 ```
 
@@ -401,7 +401,7 @@ SELECT * FROM Customers;
 
 ```
 DELETE FROM Customers
-WHERE CustomerName='Sage';
+WHERE CustomerName='Keenan';
 ```
 
 ```
