@@ -29,7 +29,6 @@ Hello I'm [Keenan Olsen](https://linkedin.com/in/keenanolsen). I'm a Developer E
 
 If you have an event you would like to see or put on let me know! I'm always looking for ideas. Talk to me after the workshop or find me online at one of these:
 
-- Website: [keenanolsen.me](https://keenanolsen.me)
 - Twitter: [@KeenanOlsen](https://twitter.com/@keenanolsen)
 - LinkedIn: [Keenan Olsen](https://www.linkedin.com/in/keenanolsen/)
 - Email: [keenan.olsen@galvanize.com](mailto:keenan.olsen@galvanize.com)
@@ -110,7 +109,6 @@ Each of these databases can be Queried using the SQL programming Language.
 - MySQL
 - PostgreSQL
 - Microsoft SQL
-- SQLite
 - Oracle
 
 *Note:* There are some slight differences to each database, but most of the SQL commands we're going to cover will be the same or very similar.
@@ -501,12 +499,8 @@ Upcoming Learn to code [events](https://www.meetup.com/SF-Data-Science/):
 ## What is Galvanize?
 
 #### Immersive Bootcamp
-- [Data Science](https://www.galvanize.com/san-francisco/data-science) - 1/22/2019
-- [Software Engineer](https://www.galvanize.com/san-francisco/web-development) - January 2019 (Hack Reactor)
-
-#### Part-Time Courses
-
-- [2 Day Statistics Short-Course](https://www.galvanize.com/seattle/data-analytics) - 11/27 & 11/29
+- [Data Science](https://www.galvanize.com/san-francisco/data-science) - May 6th, 2019
+- [Software Engineer](https://www.galvanize.com/san-francisco/web-development) - May 2019 (Hack Reactor)
 
 
 #### Co-working Space
@@ -520,7 +514,6 @@ Please feel free to reach out to me with any questions!
 
 This was only my 2nd time running this workshop, help improve it by giving me feedback :)
 
-- Website: [keenanolsen.me](https://keenanolsen.me)
 - Twitter: [@KeenanOlsen](https://twitter.com/@keenanolsen)
 - LinkedIn: [Keenan Olsen](https://www.linkedin.com/in/keenanolsen/)
 - Email: [keenan.olsen@galvanize.com](mailto:keenan.olsen@galvanize.com)
