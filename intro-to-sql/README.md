@@ -497,10 +497,15 @@ Upcoming Learn to code [events](https://www.meetup.com/SF-Data-Science/):
 
 
 ## What is Galvanize?
+Immersive Bootcamp
+Transform your career with our 13 week immersive programs
 
-#### Immersive Bootcamp
-- [Data Science](https://www.galvanize.com/san-francisco/data-science) - May 6th, 2019
-- [Software Engineer](https://www.galvanize.com/san-francisco/web-development) - May 2019 (Hack Reactor)
+Software Engineer - 6/3/19 - 10/11/19
+Data Science - 8/19/19 - 11/15/19
+Part-Time Courses
+Learn while working with out evening part-time classes
+
+Python Fundamentals - 7/6/19 - 8/11/19
 
 
 #### Co-working Space
